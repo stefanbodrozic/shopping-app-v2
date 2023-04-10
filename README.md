@@ -1,1 +1,7 @@
-"# shopping-app-v2" 
+"# shopping-app-v2"
+
+# Start
+
+```
+npm start
+```
